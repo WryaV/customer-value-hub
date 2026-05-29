@@ -41,6 +41,18 @@ A comprehensive customer analytics dashboard that transforms raw transaction dat
 | Visualization | Plotly, Plotly Express |
 | Data Processing | Pandas, NumPy, SciPy |
 
+### Next-Generation AI Features (In Development)
+
+## AI-Powered Intelligence Layer *(Next Stage)*
+
+### Planned AI Capabilities
+
+| AI Capability | Description | Expected Impact |
+|---------------|-------------|----------------|
+| **Generative Insights** | LLM-powered natural language summaries: *"Why did churn increase 15% in the Northeast?"* | Reduces analysis time from hours to minutes |
+| **Causal Inference Engine** | Double Machine Learning to answer *"What would happen if we changed X?"* | Enables true ROI attribution vs. correlation |
+| **Anomaly Detection** | Real-time unsupervised learning for fraud/outlier patterns | Identifies issues 5x faster |
+
 ## Installation
 
 ### Prerequisites
@@ -53,3 +65,5 @@ A comprehensive customer analytics dashboard that transforms raw transaction dat
 1. Clone the repository
 ```bash
 git clone https://github.com/WryaV/customer-value-hub.git
+### Run
+
